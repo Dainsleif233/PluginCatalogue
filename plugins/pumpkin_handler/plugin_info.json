@@ -1,0 +1,16 @@
+{
+	"id": "pumpkin_handler",
+	"authors": [
+		{
+			"name": "Dainsleif",
+			"link": "https://github.com/Dainsleif233"
+		}
+	],
+	"repository": "https://github.com/Dainsleif233/MCDR-Pumpkin-Handler",
+	"branch": "main",
+	"labels": ["handler"],
+    "introduction": {
+        "en_us": "README.md",
+        "zh_cn": "README.md"
+    }
+}
